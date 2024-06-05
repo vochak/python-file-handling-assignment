@@ -1,0 +1,6 @@
+Hello, this is line 1.
+12345
+Python is fun!
+Appending line 1.
+Appending line 2.
+Appending line 3.
